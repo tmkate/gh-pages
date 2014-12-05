@@ -1,0 +1,24 @@
+<link rel="stylesheet" href="style.css">
+<div id="header">
+     МТ-550
+</div>
+<div  id ="conteiner">
+     <div id ="nav">
+         <ul style "list-style-type:none">
+             <li>Информация >> </li>
+             <li><a href="page1.html">Список группы </a></li>
+             <li><a href="page2.html">Нормативные документы </a></li>
+         </ul>
+     </div>
+     <div id="content">
+      <div class="into-label"  > Название специальности :</div>
+      <div class="into-text">"Безопасность жизнедеятельности в техносфере"</div>
+       <div class="into-label"> Номер специальности: </div>
+       <div class="into-text">280101</div>
+     </div>
+     </div>
+</div>
+
+<div id = "footer">
+    2010-2015
+</div>
